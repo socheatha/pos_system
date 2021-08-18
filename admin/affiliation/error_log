@@ -1,0 +1,6 @@
+[09-Mar-2018 02:42:00 UTC] PHP Warning:  POST Content-Length of 8614997 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Mar-2018 02:45:33 UTC] PHP Warning:  POST Content-Length of 8615856 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Mar-2018 09:15:01 Asia/Bangkok] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/goldendaunkeoric/public_html/ocic-new/admin/affiliation/affiliation_right_detail.php on line 116
+[26-Mar-2018 09:17:36 Asia/Bangkok] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/goldendaunkeoric/public_html/ocic-new/admin/affiliation/affiliation_right_detail.php on line 116
+[26-Mar-2018 09:18:04 Asia/Bangkok] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/goldendaunkeoric/public_html/ocic-new/admin/affiliation/affiliation_right_detail.php on line 116
+[26-Mar-2018 09:18:10 Asia/Bangkok] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/goldendaunkeoric/public_html/ocic-new/admin/affiliation/affiliation_right_detail.php on line 116
